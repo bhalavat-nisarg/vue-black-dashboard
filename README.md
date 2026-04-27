@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository was archived on 2026-04-26.**
+> This project is no longer actively maintained. No new changes will be accepted and dependencies will not be updated.
+
 # [Vue-Black Dashboard](https://demos.creative-tim.com/vue-black-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Black%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard%2Fexamples%2Fdashboard.html&via=CreativeTim)
 
 
